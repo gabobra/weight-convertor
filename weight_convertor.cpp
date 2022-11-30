@@ -23,7 +23,7 @@ void introduction() {
 
     
     std::cout << "1    Mercury\n2    Venus\n3    Mars\n4    Jupiter\n5    Saturn\n6    Uranus\n7    Neptune\n";
-    std::cout << "Please enter the number of the planet you want to fight: \n";
+    std::cout << "Please enter the number of the planet you want to calculate: \n";
     std::cin >> userPlanet;
 
     inputValidation();
